@@ -42,7 +42,5 @@ for j in range(3):
     turtle.pendown()
     x = x * 2
     
-
-    
     
 turtle.done()
