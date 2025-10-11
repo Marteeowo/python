@@ -1,4 +1,4 @@
-#Marten-Jürgen Kuusk ITS25 09.10.2025
+#Harjutus01 MJ ITS25 09.10.25
 import turtle
 
 # #Kolmnurk

@@ -1,5 +1,4 @@
-#Harjutus03.1
-#Marten-Jürgen Kuusk ITS25
+#Harjutus03.1 MJ ITS25 09.10.25
 import turtle
 
 nimi = "joonas"

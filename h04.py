@@ -1,4 +1,4 @@
-#Harjutus04
+#Harjutus04 MJ ITS25 09.10.25
 
 #     Sa töötad kingipoes ja sinu ülesanne on pakkida kingitusi.
 #     Igasse kinkekarpi mahub täpselt 5 kingitust.
