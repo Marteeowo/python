@@ -1,5 +1,4 @@
 #Harjutus02 MJ ITS25 09.10.25
-
 import turtle
 
 #konn
