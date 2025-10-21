@@ -103,8 +103,6 @@ except:
     print(f"error")
     
 
-# i hate this :( my brain has never been this fried before
-# will continue tomorrow.
 
 
 
