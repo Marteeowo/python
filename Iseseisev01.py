@@ -46,14 +46,15 @@ else:
 inimesed = int(input("Kui palju inimesi tuleb bussile?: "))
 kohad = int(input("Sisestage kohtade arv: "))
 bussid = inimesed // kohad
-viimane = 1
 
 if inimesed // kohad == 0:
-    bussid = +1
-else:
-    bussid + viimane
+    bussid += 1
+
+viimane = inimesed % kohad
+if viimane == 0:
+    viimane = kohad
 
 print("Busse on vaja:",[bussid])
-print("Viimases bussis on,",[lisabuss], "inimest")
+print("Lisabussis on,",[viimane], "inimest")
     
 
