@@ -9,7 +9,6 @@ for i in range (4): #kordab kilpkonna k2ske 4 korda
      turtle.fd(300)
      turtle.lt(90)
      turtle.fd(100)
-     for j in range (2): #kordab ymberpooramist kaks korda parast esimesi kaske
-          turtle.lt(90)
+     turtle.lt(180) #poorab kilpkonna vastupidi
           
 turtle.done()
