@@ -1,4 +1,4 @@
-# #Harjutus11 MJ ITS25
+#Harjutus11 MJ ITS25 06.11.25
 
 # Kirjuta funktsioon, mis kontrollib, kas kahest sõnast koosnev sõne algab sama tähega.
 # print(sarnased_esitahed('Vapper Vares')) # peaks tagastama True
@@ -7,14 +7,13 @@
 def sarnased_esitahed(s):
     s1, s2 = s.split(" ")
     # print(s1[0], s2[0])
-    if s1[0]==s2[0]:
+    if s1[0].capitalize()==s2[0].capitalize():
         return True
     else:
         return False
 
 print(sarnased_esitahed('Vapper Vares'))
-print(sarnased_esitahed('Lahe Känguru'))
-
+print(sarnased_esitahed('Kass Artur'))
 
 # def tervita(m, k="maailm"):
 #     print("Tere",k,m)
@@ -24,4 +23,3 @@ print(sarnased_esitahed('Lahe Känguru'))
 
 # tervita("Karin", "Eegreid")
 # print(tervita2())
-
