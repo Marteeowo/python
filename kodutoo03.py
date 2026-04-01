@@ -1,4 +1,4 @@
-#Kodutoo02 MJ ITS25 08.02.26
+#Kodutoo03 MJ ITS25
 
 import turtle
 import random
